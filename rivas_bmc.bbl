@@ -1,0 +1,839 @@
+%% BioMed_Central_Bib_Style_v1.01
+
+\begin{thebibliography}{22}
+% BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
+\ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
+\ifx \binits  \undefined \def \binits#1{#1}\fi
+\ifx \bauthor  \undefined \def \bauthor#1{#1}\fi
+\ifx \batitle  \undefined \def \batitle#1{#1}\fi
+\ifx \bjtitle  \undefined \def \bjtitle#1{#1}\fi
+\ifx \bvolume  \undefined \def \bvolume#1{\textbf{#1}}\fi
+\ifx \byear  \undefined \def \byear#1{#1}\fi
+\ifx \bissue  \undefined \def \bissue#1{#1}\fi
+\ifx \bfpage  \undefined \def \bfpage#1{#1}\fi
+\ifx \blpage  \undefined \def \blpage #1{#1}\fi
+\ifx \burl  \undefined \def \burl#1{\textsf{#1}}\fi
+\ifx \doiurl  \undefined \def \doiurl#1{\textsf{#1}}\fi
+\ifx \betal  \undefined \def \betal{\textit{et al.}}\fi
+\ifx \binstitute  \undefined \def \binstitute#1{#1}\fi
+\ifx \binstitutionaled  \undefined \def \binstitutionaled#1{#1}\fi
+\ifx \bctitle  \undefined \def \bctitle#1{#1}\fi
+\ifx \beditor  \undefined \def \beditor#1{#1}\fi
+\ifx \bpublisher  \undefined \def \bpublisher#1{#1}\fi
+\ifx \bbtitle  \undefined \def \bbtitle#1{#1}\fi
+\ifx \bedition  \undefined \def \bedition#1{#1}\fi
+\ifx \bseriesno  \undefined \def \bseriesno#1{#1}\fi
+\ifx \blocation  \undefined \def \blocation#1{#1}\fi
+\ifx \bsertitle  \undefined \def \bsertitle#1{#1}\fi
+\ifx \bsnm \undefined \def \bsnm#1{#1}\fi
+\ifx \bsuffix \undefined \def \bsuffix#1{#1}\fi
+\ifx \bparticle \undefined \def \bparticle#1{#1}\fi
+\ifx \barticle \undefined \def \barticle#1{#1}\fi
+\ifx \bconfdate \undefined \def \bconfdate #1{#1}\fi
+\ifx \botherref \undefined \def \botherref #1{#1}\fi
+\ifx \url \undefined \def \url#1{\textsf{#1}}\fi
+\ifx \bchapter \undefined \def \bchapter#1{#1}\fi
+\ifx \bbook \undefined \def \bbook#1{#1}\fi
+\ifx \bcomment \undefined \def \bcomment#1{#1}\fi
+\ifx \oauthor \undefined \def \oauthor#1{#1}\fi
+\ifx \citeauthoryear \undefined \def \citeauthoryear#1{#1}\fi
+\ifx \endbibitem  \undefined \def \endbibitem {}\fi
+\ifx \bconflocation  \undefined \def \bconflocation#1{#1}\fi
+\ifx \arxivurl  \undefined \def \arxivurl#1{\textsf{#1}}\fi
+\csname PreBibitemsHook\endcsname
+
+%%% 1
+\bibitem{mokdad2004actual}
+\begin{barticle}
+\bauthor{\bsnm{Mokdad}, \binits{A.H.}},
+\bauthor{\bsnm{Marks}, \binits{J.S.}},
+\bauthor{\bsnm{Stroup}, \binits{D.F.}},
+\bauthor{\bsnm{Gerberding}, \binits{J.L.}}:
+\batitle{Actual causes of death in the united states, 2000}.
+\bjtitle{Jama}
+\bvolume{291}(\bissue{10}),
+\bfpage{1238}--\blpage{1245}
+(\byear{2004})
+\end{barticle}
+\endbibitem
+
+%%% 2
+\bibitem{grant2004prevalence}
+\begin{barticle}
+\bauthor{\bsnm{Grant}, \binits{B.F.}},
+\bauthor{\bsnm{Stinson}, \binits{F.S.}},
+\bauthor{\bsnm{Dawson}, \binits{D.A.}},
+\bauthor{\bsnm{Chou}, \binits{S.P.}},
+\bauthor{\bsnm{Dufour}, \binits{M.C.}},
+\bauthor{\bsnm{Compton}, \binits{W.}},
+\bauthor{\bsnm{Pickering}, \binits{R.P.}},
+\bauthor{\bsnm{Kaplan}, \binits{K.}}:
+\batitle{Prevalence and co-occurrence of substance use disorders and
+  independentmood and anxiety disorders: Results from the national
+  epidemiologic survey on alcohol and relatedconditions}.
+\bjtitle{Archives of general psychiatry}
+\bvolume{61}(\bissue{8}),
+\bfpage{807}--\blpage{816}
+(\byear{2004})
+\end{barticle}
+\endbibitem
+
+%%% 3
+\bibitem{grant2015epidemiology}
+\begin{barticle}
+\bauthor{\bsnm{Grant}, \binits{B.F.}},
+\bauthor{\bsnm{Goldstein}, \binits{R.B.}},
+\bauthor{\bsnm{Saha}, \binits{T.D.}},
+\bauthor{\bsnm{Chou}, \binits{S.P.}},
+\bauthor{\bsnm{Jung}, \binits{J.}},
+\bauthor{\bsnm{Zhang}, \binits{H.}},
+\bauthor{\bsnm{Pickering}, \binits{R.P.}},
+\bauthor{\bsnm{Ruan}, \binits{W.J.}},
+\bauthor{\bsnm{Smith}, \binits{S.M.}},
+\bauthor{\bsnm{Huang}, \binits{B.}}, \betal:
+\batitle{Epidemiology of dsm-5 alcohol use disorder: Results from the national
+  epidemiologic survey on alcohol and related conditions iii}.
+\bjtitle{JAMA psychiatry}
+\bvolume{72}(\bissue{8}),
+\bfpage{757}--\blpage{766}
+(\byear{2015})
+\end{barticle}
+\endbibitem
+
+%%% 4
+\bibitem{baker2014chronic}
+\begin{barticle}
+\bauthor{\bsnm{Baker}, \binits{E.J.}},
+\bauthor{\bsnm{Farro}, \binits{J.}},
+\bauthor{\bsnm{Gonzales}, \binits{S.}},
+\bauthor{\bsnm{Helms}, \binits{C.}},
+\bauthor{\bsnm{Grant}, \binits{K.A.}}:
+\batitle{Chronic alcohol self-administration in monkeys shows long-term
+  quantity/frequency categorical stability}.
+\bjtitle{Alcoholism: Clinical and Experimental Research}
+\bvolume{38}(\bissue{11}),
+\bfpage{2835}--\blpage{2843}
+(\byear{2014})
+\end{barticle}
+\endbibitem
+
+%%% 5
+\bibitem{kroenke2014monkeys}
+\begin{barticle}
+\bauthor{\bsnm{Kroenke}, \binits{C.D.}},
+\bauthor{\bsnm{Rohlfing}, \binits{T.}},
+\bauthor{\bsnm{Park}, \binits{B.}},
+\bauthor{\bsnm{Sullivan}, \binits{E.V.}},
+\bauthor{\bsnm{Pfefferbaum}, \binits{A.}},
+\bauthor{\bsnm{Grant}, \binits{K.A.}}:
+\batitle{Monkeys that voluntarily and chronically drink alcohol damage their
+  brains: a longitudinal mri study}.
+\bjtitle{Neuropsychopharmacology}
+\bvolume{39}(\bissue{4}),
+\bfpage{823}--\blpage{830}
+(\byear{2014})
+\end{barticle}
+\endbibitem
+
+%%% 6
+\bibitem{chen2011striatal}
+\begin{barticle}
+\bauthor{\bsnm{Chen}, \binits{G.}},
+\bauthor{\bsnm{Cuzon~Carlson}, \binits{V.C.}},
+\bauthor{\bsnm{Wang}, \binits{J.}},
+\bauthor{\bsnm{Beck}, \binits{A.}},
+\bauthor{\bsnm{Heinz}, \binits{A.}},
+\bauthor{\bsnm{Ron}, \binits{D.}},
+\bauthor{\bsnm{Lovinger}, \binits{D.M.}},
+\bauthor{\bsnm{Buck}, \binits{K.J.}}:
+\batitle{Striatal involvement in human alcoholism and alcohol consumption, and
+  withdrawal in animal models}.
+\bjtitle{Alcoholism: Clinical and Experimental Research}
+\bvolume{35}(\bissue{10}),
+\bfpage{1739}--\blpage{1748}
+(\byear{2011})
+\end{barticle}
+\endbibitem
+
+%%% 7
+\bibitem{siciliano2015voluntary}
+\begin{barticle}
+\bauthor{\bsnm{Siciliano}, \binits{C.A.}},
+\bauthor{\bsnm{Calipari}, \binits{E.S.}},
+\bauthor{\bsnm{Carlson}, \binits{V.C.C.}},
+\bauthor{\bsnm{Helms}, \binits{C.M.}},
+\bauthor{\bsnm{Lovinger}, \binits{D.M.}},
+\bauthor{\bsnm{Grant}, \binits{K.A.}},
+\bauthor{\bsnm{Jones}, \binits{S.R.}}:
+\batitle{Voluntary ethanol intake predicts $\kappa$-opioid receptor
+  supersensitivity and regionally distinct dopaminergic adaptations in
+  macaques}.
+\bjtitle{The Journal of Neuroscience}
+\bvolume{35}(\bissue{15}),
+\bfpage{5959}--\blpage{5968}
+(\byear{2015})
+\end{barticle}
+\endbibitem
+
+%%% 8
+\bibitem{grant2008drinking}
+\begin{barticle}
+\bauthor{\bsnm{Grant}, \binits{K.A.}},
+\bauthor{\bsnm{Leng}, \binits{X.}},
+\bauthor{\bsnm{Green}, \binits{H.L.}},
+\bauthor{\bsnm{Szeliga}, \binits{K.T.}},
+\bauthor{\bsnm{Rogers}, \binits{L.S.}},
+\bauthor{\bsnm{Gonzales}, \binits{S.W.}}:
+\batitle{Drinking typography established by scheduled induction predicts
+  chronic heavy drinking in a monkey model of ethanol self-administration}.
+\bjtitle{Alcoholism: Clinical and Experimental Research}
+\bvolume{32}(\bissue{10}),
+\bfpage{1824}--\blpage{1838}
+(\byear{2008})
+\end{barticle}
+\endbibitem
+
+%%% 9
+\bibitem{guyon2008feature}
+\begin{bchapter}
+\bauthor{\bsnm{Guyon}, \binits{I.}},
+\bauthor{\bsnm{Ekusseeff}, \binits{A.}}:
+\bctitle{An introduction to feature extraction}.
+In: \beditor{\bsnm{Guyon}, \binits{I.}},
+\beditor{\bsnm{Gunn}, \binits{S.}},
+\beditor{\bsnm{Nikravesh}, \binits{M.}},
+\beditor{\bsnm{Zadeh}, \binits{L.A.}} (eds.)
+\bbtitle{Feature Extraction: Foundations and Applications}
+vol. \bseriesno{207},
+pp. \bfpage{1}--\blpage{25}.
+\bpublisher{Springer},
+\blocation{New York}
+(\byear{2008})
+\end{bchapter}
+\endbibitem
+
+%%% 10
+\bibitem{rivas2014algorithm}
+\begin{barticle}
+\bauthor{\bsnm{Rivas-Perea}, \binits{P.}},
+\bauthor{\bsnm{Cota-Ruiz}, \binits{J.}},
+\bauthor{\bsnm{Rosiles}, \binits{J.G.}}:
+\batitle{An algorithm for training a large scale support vector machine for
+  regression based on linear programming and decomposition methods}.
+\bjtitle{Pattern Recognition Letters}
+\bvolume{2013}(\bissue{34}),
+\bfpage{439}--\blpage{451}
+(\byear{2013})
+\end{barticle}
+\endbibitem
+
+%%% 11
+\bibitem{daunais2014monkey}
+\begin{barticle}
+\bauthor{\bsnm{Daunais}, \binits{J.B.}},
+\bauthor{\bsnm{Davenport}, \binits{A.T.}},
+\bauthor{\bsnm{Helms}, \binits{C.M.}},
+\bauthor{\bsnm{Gonzales}, \binits{S.W.}},
+\bauthor{\bsnm{Hemby}, \binits{S.E.}},
+\bauthor{\bsnm{Friedman}, \binits{D.P.}},
+\bauthor{\bsnm{Farro}, \binits{J.P.}},
+\bauthor{\bsnm{Baker}, \binits{E.J.}},
+\bauthor{\bsnm{Grant}, \binits{K.A.}}:
+\batitle{Monkey alcohol tissue research resource: banking tissues for alcohol
+  research}.
+\bjtitle{Alcoholism: Clinical and Experimental Research}
+\bvolume{38}(\bissue{7}),
+\bfpage{1973}--\blpage{1981}
+(\byear{2014})
+\end{barticle}
+\endbibitem
+
+%%% 12
+\bibitem{li2007alcohol}
+\begin{barticle}
+\bauthor{\bsnm{Li}, \binits{T.-K.}},
+\bauthor{\bsnm{Hewitt}, \binits{B.G.}},
+\bauthor{\bsnm{Grant}, \binits{B.F.}}:
+\batitle{The alcohol dependence syndrome, 30 years later: a commentary}.
+\bjtitle{Addiction}
+\bvolume{102}(\bissue{10}),
+\bfpage{1522}--\blpage{1530}
+(\byear{2007})
+\end{barticle}
+\endbibitem
+
+%%% 13
+\bibitem{dawson2008age}
+\begin{barticle}
+\bauthor{\bsnm{Dawson}, \binits{D.A.}},
+\bauthor{\bsnm{Goldstein}, \binits{R.B.}},
+\bauthor{\bsnm{Patricia~Chou}, \binits{S.}},
+\bauthor{\bsnm{June~Ruan}, \binits{W.}},
+\bauthor{\bsnm{Grant}, \binits{B.F.}}:
+\batitle{Age at first drink and the first incidence of adult-onset dsm-iv
+  alcohol use disorders}.
+\bjtitle{Alcoholism: Clinical and Experimental Research}
+\bvolume{32}(\bissue{12}),
+\bfpage{2149}--\blpage{2160}
+(\byear{2008})
+\end{barticle}
+\endbibitem
+
+%%% 14
+\bibitem{vivian2001induction}
+\begin{barticle}
+\bauthor{\bsnm{Vivian}, \binits{J.}},
+\bauthor{\bsnm{Green}, \binits{H.}},
+\bauthor{\bsnm{Young}, \binits{J.}},
+\bauthor{\bsnm{Majerksy}, \binits{L.}},
+\bauthor{\bsnm{Thomas}, \binits{B.}},
+\bauthor{\bsnm{Shively}, \binits{C.}},
+\bauthor{\bsnm{Tobin}, \binits{J.}},
+\bauthor{\bsnm{Nader}, \binits{M.}},
+\bauthor{\bsnm{Grant}, \binits{K.}}:
+\batitle{Induction and maintenance of ethanol self-administration in cynomolgus
+  monkeys (macaca fascicularis): Long-term characterization of sex and
+  individual differences}.
+\bjtitle{Alcoholism: Clinical and Experimental Research}
+\bvolume{25}(\bissue{8}),
+\bfpage{1087}--\blpage{1097}
+(\byear{2001})
+\end{barticle}
+\endbibitem
+
+%%% 15
+\bibitem{alex2015}
+\begin{barticle}
+\bauthor{\bsnm{Salo}, \binits{A.}},
+\bauthor{\bsnm{Baker}, \binits{E.}},
+\bauthor{\bsnm{Grant}, \binits{K.}},
+\bauthor{\bsnm{Rivas-Perea}, \binits{P.}}:
+\batitle{Identifying future drinkers: Behavioral analysis of monkeys initiating
+  drinking to intoxication is predictive of future drinking classification}.
+\bjtitle{Nat Genet}
+\bvolume{13},
+\bfpage{266}--\blpage{267}
+(\byear{2015})
+\end{barticle}
+\endbibitem
+
+%%% 16
+\bibitem{torkkola2008feature}
+\begin{bchapter}
+\bauthor{\bsnm{Torkkola}, \binits{K.}}:
+\bctitle{Information-theoretic methods}.
+In: \beditor{\bsnm{Guyon}, \binits{I.}},
+\beditor{\bsnm{Gunn}, \binits{S.}},
+\beditor{\bsnm{Nikravesh}, \binits{M.}},
+\beditor{\bsnm{Zadeh}, \binits{L.A.}} (eds.)
+\bbtitle{Feature Extraction: Foundations and Applications}
+vol. \bseriesno{207},
+pp. \bfpage{167}--\blpage{185}.
+\bpublisher{Springer},
+\blocation{New York}
+(\byear{2008})
+\end{bchapter}
+\endbibitem
+
+%%% 17
+\bibitem{chen2008feature}
+\begin{bchapter}
+\bauthor{\bsnm{Chen}, \binits{Y.-W.}},
+\bauthor{\bsnm{Lin}, \binits{C.-J.}}:
+\bctitle{Combininb svms with various feature selection strategies}.
+In: \beditor{\bsnm{Guyon}, \binits{I.}},
+\beditor{\bsnm{Gunn}, \binits{S.}},
+\beditor{\bsnm{Nikravesh}, \binits{M.}},
+\beditor{\bsnm{Zadeh}, \binits{L.A.}} (eds.)
+\bbtitle{Feature Extraction: Foundations and Applications}
+vol. \bseriesno{207},
+pp. \bfpage{315}--\blpage{323}.
+\bpublisher{Springer},
+\blocation{New York}
+(\byear{2008})
+\end{bchapter}
+\endbibitem
+
+%%% 18
+\bibitem{rakotomamonjy2003variable}
+\begin{barticle}
+\bauthor{\bsnm{Rakotomamonjy}, \binits{A.}}:
+\batitle{Variable selection using svm-based criteria}.
+\bjtitle{Journal of Machine Learning Research}
+\bvolume{3},
+\bfpage{1357}--\blpage{1370}
+(\byear{2003})
+\end{barticle}
+\endbibitem
+
+%%% 19
+\bibitem{chang2008feature}
+\begin{barticle}
+\bauthor{\bsnm{Chang}, \binits{Y.-W.}},
+\bauthor{\bsnm{Lin}, \binits{C.-J.}}:
+\batitle{Feature ranking using linear svm}.
+\bjtitle{Causation and Prediction Challenge Challenges in Machine Learning}
+\bvolume{2},
+\bfpage{47}
+(\byear{2008})
+\end{barticle}
+\endbibitem
+
+%%% 20
+\bibitem{demvsar2006statistical}
+\begin{barticle}
+\bauthor{\bsnm{Dem{\v{s}}ar}, \binits{J.}}:
+\batitle{Statistical comparisons of classifiers over multiple data sets}.
+\bjtitle{The Journal of Machine Learning Research}
+\bvolume{7},
+\bfpage{1}--\blpage{30}
+(\byear{2006})
+\end{barticle}
+\endbibitem
+
+%%% 21
+\bibitem{garcia2010advanced}
+\begin{barticle}
+\bauthor{\bsnm{Garc{\'\i}a}, \binits{S.}},
+\bauthor{\bsnm{Fern{\'a}ndez}, \binits{A.}},
+\bauthor{\bsnm{Luengo}, \binits{J.}},
+\bauthor{\bsnm{Herrera}, \binits{F.}}:
+\batitle{Advanced nonparametric tests for multiple comparisons in the design of
+  experiments in computational intelligence and data mining: Experimental
+  analysis of power}.
+\bjtitle{Information Sciences}
+\bvolume{180}(\bissue{10}),
+\bfpage{2044}--\blpage{2064}
+(\byear{2010})
+\end{barticle}
+\endbibitem
+
+%%% 22
+\bibitem{wong2015performance}
+\begin{barticle}
+\bauthor{\bsnm{Wong}, \binits{T.-T.}}:
+\batitle{Performance evaluation of classification algorithms by k-fold and
+  leave-one-out cross validation}.
+\bjtitle{Pattern Recognition}
+\bvolume{48}(\bissue{9}),
+\bfpage{2839}--\blpage{2846}
+(\byear{2015})
+\end{barticle}
+\endbibitem
+
+\end{thebibliography}
+
+\newcommand{\BMCxmlcomment}[1]{}
+
+\BMCxmlcomment{
+
+<refgrp>
+
+<bibl id="B1">
+  <title><p>Actual causes of death in the United States, 2000</p></title>
+  <aug>
+    <au><snm>Mokdad</snm><fnm>AH</fnm></au>
+    <au><snm>Marks</snm><fnm>JS</fnm></au>
+    <au><snm>Stroup</snm><fnm>DF</fnm></au>
+    <au><snm>Gerberding</snm><fnm>JL</fnm></au>
+  </aug>
+  <source>Jama</source>
+  <publisher>American Medical Association</publisher>
+  <pubdate>2004</pubdate>
+  <volume>291</volume>
+  <issue>10</issue>
+  <fpage>1238</fpage>
+  <lpage>-1245</lpage>
+</bibl>
+
+<bibl id="B2">
+  <title><p>Prevalence and co-occurrence of substance use disorders and
+  independentmood and anxiety disorders: Results from the national
+  epidemiologic survey on alcohol and relatedconditions</p></title>
+  <aug>
+    <au><snm>Grant</snm><fnm>BF</fnm></au>
+    <au><snm>Stinson</snm><fnm>FS</fnm></au>
+    <au><snm>Dawson</snm><fnm>DA</fnm></au>
+    <au><snm>Chou</snm><fnm>SP</fnm></au>
+    <au><snm>Dufour</snm><fnm>MC</fnm></au>
+    <au><snm>Compton</snm><fnm>W</fnm></au>
+    <au><snm>Pickering</snm><fnm>RP</fnm></au>
+    <au><snm>Kaplan</snm><fnm>K</fnm></au>
+  </aug>
+  <source>Archives of general psychiatry</source>
+  <publisher>American Medical Association</publisher>
+  <pubdate>2004</pubdate>
+  <volume>61</volume>
+  <issue>8</issue>
+  <fpage>807</fpage>
+  <lpage>-816</lpage>
+</bibl>
+
+<bibl id="B3">
+  <title><p>Epidemiology of DSM-5 Alcohol Use Disorder: Results From the
+  National Epidemiologic Survey on Alcohol and Related Conditions
+  III</p></title>
+  <aug>
+    <au><snm>Grant</snm><fnm>BF</fnm></au>
+    <au><snm>Goldstein</snm><fnm>RB</fnm></au>
+    <au><snm>Saha</snm><fnm>TD</fnm></au>
+    <au><snm>Chou</snm><fnm>SP</fnm></au>
+    <au><snm>Jung</snm><fnm>J</fnm></au>
+    <au><snm>Zhang</snm><fnm>H</fnm></au>
+    <au><snm>Pickering</snm><fnm>RP</fnm></au>
+    <au><snm>Ruan</snm><fnm>WJ</fnm></au>
+    <au><snm>Smith</snm><fnm>SM</fnm></au>
+    <au><snm>Huang</snm><fnm>B</fnm></au>
+    <au><cnm>others</cnm></au>
+  </aug>
+  <source>JAMA psychiatry</source>
+  <publisher>American Medical Association</publisher>
+  <pubdate>2015</pubdate>
+  <volume>72</volume>
+  <issue>8</issue>
+  <fpage>757</fpage>
+  <lpage>-766</lpage>
+</bibl>
+
+<bibl id="B4">
+  <title><p>Chronic Alcohol Self-Administration in Monkeys Shows Long-Term
+  Quantity/Frequency Categorical Stability</p></title>
+  <aug>
+    <au><snm>Baker</snm><fnm>EJ</fnm></au>
+    <au><snm>Farro</snm><fnm>J</fnm></au>
+    <au><snm>Gonzales</snm><fnm>S</fnm></au>
+    <au><snm>Helms</snm><fnm>C</fnm></au>
+    <au><snm>Grant</snm><fnm>KA</fnm></au>
+  </aug>
+  <source>Alcoholism: Clinical and Experimental Research</source>
+  <pubdate>2014</pubdate>
+  <volume>38</volume>
+  <issue>11</issue>
+  <fpage>2835</fpage>
+  <lpage>-2843</lpage>
+</bibl>
+
+<bibl id="B5">
+  <title><p>Monkeys that voluntarily and chronically drink alcohol damage their
+  brains: a longitudinal MRI study</p></title>
+  <aug>
+    <au><snm>Kroenke</snm><fnm>CD</fnm></au>
+    <au><snm>Rohlfing</snm><fnm>T</fnm></au>
+    <au><snm>Park</snm><fnm>B</fnm></au>
+    <au><snm>Sullivan</snm><fnm>EV</fnm></au>
+    <au><snm>Pfefferbaum</snm><fnm>A</fnm></au>
+    <au><snm>Grant</snm><fnm>KA</fnm></au>
+  </aug>
+  <source>Neuropsychopharmacology</source>
+  <publisher>Nature Publishing Group</publisher>
+  <pubdate>2014</pubdate>
+  <volume>39</volume>
+  <issue>4</issue>
+  <fpage>823</fpage>
+  <lpage>-830</lpage>
+</bibl>
+
+<bibl id="B6">
+  <title><p>Striatal involvement in human alcoholism and alcohol consumption,
+  and withdrawal in animal models</p></title>
+  <aug>
+    <au><snm>Chen</snm><fnm>G</fnm></au>
+    <au><snm>Cuzon Carlson</snm><fnm>VC</fnm></au>
+    <au><snm>Wang</snm><fnm>J</fnm></au>
+    <au><snm>Beck</snm><fnm>A</fnm></au>
+    <au><snm>Heinz</snm><fnm>A</fnm></au>
+    <au><snm>Ron</snm><fnm>D</fnm></au>
+    <au><snm>Lovinger</snm><fnm>DM</fnm></au>
+    <au><snm>Buck</snm><fnm>KJ</fnm></au>
+  </aug>
+  <source>Alcoholism: Clinical and Experimental Research</source>
+  <publisher>Wiley Online Library</publisher>
+  <pubdate>2011</pubdate>
+  <volume>35</volume>
+  <issue>10</issue>
+  <fpage>1739</fpage>
+  <lpage>-1748</lpage>
+</bibl>
+
+<bibl id="B7">
+  <title><p>Voluntary Ethanol Intake Predicts $\kappa$-Opioid Receptor
+  Supersensitivity and Regionally Distinct Dopaminergic Adaptations in
+  Macaques</p></title>
+  <aug>
+    <au><snm>Siciliano</snm><fnm>CA</fnm></au>
+    <au><snm>Calipari</snm><fnm>ES</fnm></au>
+    <au><snm>Carlson</snm><fnm>VCC</fnm></au>
+    <au><snm>Helms</snm><fnm>CM</fnm></au>
+    <au><snm>Lovinger</snm><fnm>DM</fnm></au>
+    <au><snm>Grant</snm><fnm>KA</fnm></au>
+    <au><snm>Jones</snm><fnm>SR</fnm></au>
+  </aug>
+  <source>The Journal of Neuroscience</source>
+  <publisher>Soc Neuroscience</publisher>
+  <pubdate>2015</pubdate>
+  <volume>35</volume>
+  <issue>15</issue>
+  <fpage>5959</fpage>
+  <lpage>-5968</lpage>
+</bibl>
+
+<bibl id="B8">
+  <title><p>Drinking Typography Established by Scheduled Induction Predicts
+  Chronic Heavy Drinking in a Monkey Model of Ethanol
+  Self-Administration</p></title>
+  <aug>
+    <au><snm>Grant</snm><fnm>KA</fnm></au>
+    <au><snm>Leng</snm><fnm>X</fnm></au>
+    <au><snm>Green</snm><fnm>HL</fnm></au>
+    <au><snm>Szeliga</snm><fnm>KT</fnm></au>
+    <au><snm>Rogers</snm><fnm>LS</fnm></au>
+    <au><snm>Gonzales</snm><fnm>SW</fnm></au>
+  </aug>
+  <source>Alcoholism: Clinical and Experimental Research</source>
+  <publisher>Wiley Online Library</publisher>
+  <pubdate>2008</pubdate>
+  <volume>32</volume>
+  <issue>10</issue>
+  <fpage>1824</fpage>
+  <lpage>-1838</lpage>
+</bibl>
+
+<bibl id="B9">
+  <title><p>An Introduction to Feature Extraction</p></title>
+  <aug>
+    <au><snm>Guyon</snm><fnm>I</fnm></au>
+    <au><snm>Ekusseeff</snm><fnm>A</fnm></au>
+  </aug>
+  <source>Feature extraction: foundations and applications</source>
+  <publisher>New York: Springer</publisher>
+  <editor>Guyon, Isabelle and Gunn, Steve and Nikravesh, Masoud and Zadeh,
+  Lofti A</editor>
+  <pubdate>2008</pubdate>
+  <volume>207</volume>
+  <fpage>1</fpage>
+  <lpage>25</lpage>
+</bibl>
+
+<bibl id="B10">
+  <title><p>An algorithm for training a large scale support vector machine for
+  regression based on linear programming and decomposition methods</p></title>
+  <aug>
+    <au><snm>Rivas Perea</snm><fnm>P</fnm></au>
+    <au><snm>Cota Ruiz</snm><fnm>J</fnm></au>
+    <au><snm>Rosiles</snm><fnm>JG</fnm></au>
+  </aug>
+  <source>Pattern Recognition Letters</source>
+  <pubdate>2013</pubdate>
+  <volume>2013</volume>
+  <issue>34</issue>
+  <fpage>439</fpage>
+  <lpage>451</lpage>
+</bibl>
+
+<bibl id="B11">
+  <title><p>Monkey alcohol tissue research resource: banking tissues for
+  alcohol research</p></title>
+  <aug>
+    <au><snm>Daunais</snm><fnm>JB</fnm></au>
+    <au><snm>Davenport</snm><fnm>AT</fnm></au>
+    <au><snm>Helms</snm><fnm>CM</fnm></au>
+    <au><snm>Gonzales</snm><fnm>SW</fnm></au>
+    <au><snm>Hemby</snm><fnm>SE</fnm></au>
+    <au><snm>Friedman</snm><fnm>DP</fnm></au>
+    <au><snm>Farro</snm><fnm>JP</fnm></au>
+    <au><snm>Baker</snm><fnm>EJ</fnm></au>
+    <au><snm>Grant</snm><fnm>KA</fnm></au>
+  </aug>
+  <source>Alcoholism: Clinical and Experimental Research</source>
+  <publisher>Wiley Online Library</publisher>
+  <pubdate>2014</pubdate>
+  <volume>38</volume>
+  <issue>7</issue>
+  <fpage>1973</fpage>
+  <lpage>-1981</lpage>
+</bibl>
+
+<bibl id="B12">
+  <title><p>The Alcohol Dependence Syndrome, 30 years later: a
+  commentary</p></title>
+  <aug>
+    <au><snm>Li</snm><fnm>TK</fnm></au>
+    <au><snm>Hewitt</snm><fnm>BG</fnm></au>
+    <au><snm>Grant</snm><fnm>BF</fnm></au>
+  </aug>
+  <source>Addiction</source>
+  <publisher>Wiley Online Library</publisher>
+  <pubdate>2007</pubdate>
+  <volume>102</volume>
+  <issue>10</issue>
+  <fpage>1522</fpage>
+  <lpage>-1530</lpage>
+</bibl>
+
+<bibl id="B13">
+  <title><p>Age at First Drink and the First Incidence of Adult-Onset DSM-IV
+  Alcohol Use Disorders</p></title>
+  <aug>
+    <au><snm>Dawson</snm><fnm>DA</fnm></au>
+    <au><snm>Goldstein</snm><fnm>RB</fnm></au>
+    <au><snm>Patricia Chou</snm><fnm>S</fnm></au>
+    <au><snm>June Ruan</snm><fnm>W</fnm></au>
+    <au><snm>Grant</snm><fnm>BF</fnm></au>
+  </aug>
+  <source>Alcoholism: Clinical and Experimental Research</source>
+  <publisher>Wiley Online Library</publisher>
+  <pubdate>2008</pubdate>
+  <volume>32</volume>
+  <issue>12</issue>
+  <fpage>2149</fpage>
+  <lpage>-2160</lpage>
+</bibl>
+
+<bibl id="B14">
+  <title><p>Induction and Maintenance of Ethanol Self-Administration in
+  Cynomolgus Monkeys (Macaca fascicularis): Long-Term Characterization of Sex
+  and Individual Differences</p></title>
+  <aug>
+    <au><snm>Vivian</snm><fnm>JA</fnm></au>
+    <au><snm>Green</snm><fnm>HL</fnm></au>
+    <au><snm>Young</snm><fnm>JE</fnm></au>
+    <au><snm>Majerksy</snm><fnm>LS</fnm></au>
+    <au><snm>Thomas</snm><fnm>BW</fnm></au>
+    <au><snm>Shively</snm><fnm>CA</fnm></au>
+    <au><snm>Tobin</snm><fnm>JR</fnm></au>
+    <au><snm>Nader</snm><fnm>MA</fnm></au>
+    <au><snm>Grant</snm><fnm>KA</fnm></au>
+  </aug>
+  <source>Alcoholism: Clinical and Experimental Research</source>
+  <publisher>Wiley Online Library</publisher>
+  <pubdate>2001</pubdate>
+  <volume>25</volume>
+  <issue>8</issue>
+  <fpage>1087</fpage>
+  <lpage>-1097</lpage>
+</bibl>
+
+<bibl id="B15">
+  <title><p>Identifying Future Drinkers: Behavioral Analysis of Monkeys
+  Initiating Drinking to Intoxication is Predictive of Future Drinking
+  Classification</p></title>
+  <aug>
+    <au><snm>Salo</snm><fnm>A</fnm></au>
+    <au><snm>Baker</snm><fnm>E</fnm></au>
+    <au><snm>Grant</snm><fnm>K</fnm></au>
+    <au><snm>Rivas Perea</snm><fnm>P</fnm></au>
+  </aug>
+  <source>Nat Genet</source>
+  <pubdate>2015</pubdate>
+  <volume>13</volume>
+  <fpage>266</fpage>
+  <lpage>267</lpage>
+</bibl>
+
+<bibl id="B16">
+  <title><p>Information-Theoretic Methods</p></title>
+  <aug>
+    <au><snm>Torkkola</snm><fnm>K</fnm></au>
+  </aug>
+  <source>Feature extraction: foundations and applications</source>
+  <publisher>New York: Springer</publisher>
+  <editor>Guyon, Isabelle and Gunn, Steve and Nikravesh, Masoud and Zadeh,
+  Lofti A</editor>
+  <pubdate>2008</pubdate>
+  <volume>207</volume>
+  <fpage>167</fpage>
+  <lpage>185</lpage>
+</bibl>
+
+<bibl id="B17">
+  <title><p>Combininb SVMs with Various Feature Selection
+  Strategies</p></title>
+  <aug>
+    <au><snm>Chen</snm><fnm>Y W</fnm></au>
+    <au><snm>Lin</snm><fnm>C J</fnm></au>
+  </aug>
+  <source>Feature extraction: foundations and applications</source>
+  <publisher>New York: Springer</publisher>
+  <editor>Guyon, Isabelle and Gunn, Steve and Nikravesh, Masoud and Zadeh,
+  Lofti A</editor>
+  <pubdate>2008</pubdate>
+  <volume>207</volume>
+  <fpage>315</fpage>
+  <lpage>323</lpage>
+</bibl>
+
+<bibl id="B18">
+  <title><p>Variable Selection Using SVM-based Criteria</p></title>
+  <aug>
+    <au><snm>Rakotomamonjy</snm><fnm>A</fnm></au>
+  </aug>
+  <source>Journal of Machine Learning Research</source>
+  <pubdate>2003</pubdate>
+  <volume>3</volume>
+  <fpage>1357</fpage>
+  <lpage>-1370</lpage>
+</bibl>
+
+<bibl id="B19">
+  <title><p>Feature ranking using linear svm</p></title>
+  <aug>
+    <au><snm>Chang</snm><fnm>YW</fnm></au>
+    <au><snm>Lin</snm><fnm>CJ</fnm></au>
+  </aug>
+  <source>Causation and Prediction Challenge Challenges in Machine
+  Learning</source>
+  <pubdate>2008</pubdate>
+  <volume>2</volume>
+  <fpage>47</fpage>
+</bibl>
+
+<bibl id="B20">
+  <title><p>Statistical comparisons of classifiers over multiple data
+  sets</p></title>
+  <aug>
+    <au><snm>Dem{\v{s}}ar</snm><fnm>J</fnm></au>
+  </aug>
+  <source>The Journal of Machine Learning Research</source>
+  <publisher>JMLR. org</publisher>
+  <pubdate>2006</pubdate>
+  <volume>7</volume>
+  <fpage>1</fpage>
+  <lpage>-30</lpage>
+</bibl>
+
+<bibl id="B21">
+  <title><p>Advanced nonparametric tests for multiple comparisons in the design
+  of experiments in computational intelligence and data mining: Experimental
+  analysis of power</p></title>
+  <aug>
+    <au><snm>Garc{\'\i}a</snm><fnm>S</fnm></au>
+    <au><snm>Fern{\'a}ndez</snm><fnm>A</fnm></au>
+    <au><snm>Luengo</snm><fnm>J</fnm></au>
+    <au><snm>Herrera</snm><fnm>F</fnm></au>
+  </aug>
+  <source>Information Sciences</source>
+  <publisher>Elsevier</publisher>
+  <pubdate>2010</pubdate>
+  <volume>180</volume>
+  <issue>10</issue>
+  <fpage>2044</fpage>
+  <lpage>-2064</lpage>
+</bibl>
+
+<bibl id="B22">
+  <title><p>Performance evaluation of classification algorithms by k-fold and
+  leave-one-out cross validation</p></title>
+  <aug>
+    <au><snm>Wong</snm><fnm>TT</fnm></au>
+  </aug>
+  <source>Pattern Recognition</source>
+  <publisher>Elsevier</publisher>
+  <pubdate>2015</pubdate>
+  <volume>48</volume>
+  <issue>9</issue>
+  <fpage>2839</fpage>
+  <lpage>-2846</lpage>
+</bibl>
+
+</refgrp>
+} % end of \BMCxmlcomment

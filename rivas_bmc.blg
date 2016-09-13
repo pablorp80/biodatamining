@@ -1,0 +1,79 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/MacPorts 2015_1)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: rivas_bmc.aux
+The style file: bmc-mathphys.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: rivas_bmc.bib
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Name 3 in "Salo, A and Baker, E and Grant, K, and Rivas{-}Perea, P" has a comma at the end for entry alex2015
+while executing---line 2686 of file bmc-mathphys.bst
+Name 3 in "Salo, A and Baker, E and Grant, K, and Rivas{-}Perea, P" has a comma at the end for entry alex2015
+while executing---line 2686 of file bmc-mathphys.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Name 3 in "Salo, A and Baker, E and Grant, K, and Rivas-Perea, P" has a comma at the end for entry alex2015
+while executing---line 3019 of file bmc-mathphys.bst
+Name 3 in "Salo, A and Baker, E and Grant, K, and Rivas-Perea, P" has a comma at the end for entry alex2015
+while executing---line 3019 of file bmc-mathphys.bst
+Name 3 in "Salo, A and Baker, E and Grant, K, and Rivas-Perea, P" has a comma at the end for entry alex2015
+while executing---line 3019 of file bmc-mathphys.bst
+You've used 22 entries,
+            7128 wiz_defined-function locations,
+            1256 strings with 14307 characters,
+and the built_in function-call counts, 226577 in all, are:
+= -- 32802
+> -- 1059
+< -- 608
++ -- 13776
+- -- 256
+* -- 13660
+:= -- 42662
+add.period$ -- 25
+call.type$ -- 22
+change.case$ -- 249
+chr.to.int$ -- 1366
+cite$ -- 22
+duplicate$ -- 2598
+empty$ -- 9656
+format.name$ -- 1072
+if$ -- 53133
+int.to.chr$ -- 1
+int.to.str$ -- 52
+missing$ -- 817
+newline$ -- 793
+num.names$ -- 119
+pop$ -- 992
+preamble$ -- 1
+purify$ -- 95
+quote$ -- 44
+skip$ -- 17545
+stack$ -- 0
+substring$ -- 28739
+swap$ -- 1015
+text.length$ -- 339
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 987
+warning$ -- 0
+while$ -- 947
+width$ -- 0
+write$ -- 1125
+(There were 5 error messages)
